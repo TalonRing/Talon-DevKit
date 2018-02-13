@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1a7915cf6bca07945829e121286c668e
+timeCreated: 1510864682
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Questrial
+  fontNames:
+  - Questrial
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

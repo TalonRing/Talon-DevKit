@@ -1,0 +1,15 @@
+# Unity files and directories
+/*.csproj
+/*.pidb
+/*.sln
+/*.unityproj
+/*.userprefs
+
+/Library/
+/Temp/
+/obj/
+
+# VSCode
+/.vscode/launch.json
+/.vscode/.browse.VC.db*
+/.vscode/settings.json
