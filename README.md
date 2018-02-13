@@ -2,7 +2,7 @@
 
 Enabled Talon Ring as controller, support game & app development in Unity.
 
-Copyright (c) 2017 [Titanium Falcon Inc](http://www.titaniumfalcon.com/). All rights reserved.
+Copyright (c) 2018 [Titanium Falcon Inc](http://www.titaniumfalcon.com/). All rights reserved.
 
 For updates, news, and instructions, see:
 [talonring.com](http://www.talonring.com)
