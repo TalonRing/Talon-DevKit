@@ -7,6 +7,9 @@ Copyright (c) 2018 [Titanium Falcon Inc](http://www.titaniumfalcon.com/). All ri
 For updates, news, and instructions, see:
 [talonring.com](http://www.talonring.com)
 
+[Get Started with TALON SDK](https://github.com/TalonRing/Talon-DevKit/wiki)
+
+
 `Unity 5.6+` Recommended.
 
 ## Latest Vesion 
